@@ -1,6 +1,6 @@
 # Akshat Jain
 
-**AI, SaaS & full-stack developer** · Co-founder, Developer Bazaar Technologies · Indore, India
+**AI, SaaS & full-stack developer**  · Gurugram, India
 
 I'm a PGP AIAS Student at Masters' Union Gurugram, and I spend most of my time building software products. I start from a business problem: freelancers managing clients across five different tools, lenders tracking loans, founders guessing what investors want. Then I build the product that fixes it.
 
