@@ -2,7 +2,7 @@
 
 **AI, SaaS & full-stack developer** · Co-founder, Developer Bazaar Technologies · Indore, India
 
-I'm a B.Com student at Devi Ahilya Vishwavidyalaya, and I spend most of my time building software products. I start from a business problem: freelancers managing clients across five different tools, lenders tracking loans, founders guessing what investors want. Then I build the product that fixes it.
+I'm a PGP AIAS Student at Masters' Union Gurugram, and I spend most of my time building software products. I start from a business problem: freelancers managing clients across five different tools, lenders tracking loans, founders guessing what investors want. Then I build the product that fixes it.
 
 I don't stop at the code. On most of my projects I also handle the product decisions, the UI design, the documentation, the pitch deck and the go-to-market plan.
 
